@@ -1,7 +1,23 @@
-.container{
+.container {
     padding-bottom: 10%;
 }
 
-.boxes{
+.container-pidata {
+    padding-top: 3%;
+    padding-bottom: 10%;
+}
+
+.boxes {
     padding: 5%;
+}
+
+.form-box {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+.pidata-value{
+    padding-bottom: 5%;
 }

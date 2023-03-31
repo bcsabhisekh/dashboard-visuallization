@@ -7,7 +7,7 @@ import logo from "../components/images/logo.png";
 export default function Header() {
     return (
         <header>
-            <nav className="navbar navbar-expand-lg">
+            <nav className="shadow navbar navbar-expand-lg">
                 <div className="container-fluid">
                     <a class="navbar-brand" href="#">
                         <img src={logo} alt="" width="60" height="40" class="d-inline-block align-text-top" />
